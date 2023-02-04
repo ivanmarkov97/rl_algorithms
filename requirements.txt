@@ -1,0 +1,4 @@
+gym==0.17.3
+gym[toy_text]
+numpy
+torch
